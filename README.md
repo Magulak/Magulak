@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Magulak (Cezary Zdrojewski)
 - 👀 I’m interested in cool projects that will help me improve myself
 - 🌱 I’m currently learning Python and AI
-- 💞️ I’m looking to collaborate on projects that are a little bit above my comfort zone.
+- 💞️ I’m looking to collaborate on projects that are a little bit above my comfort zone. (if you are making a simple game, some AI project ) text me !
 - 📫 How to reach me:
 - zdrojewski.czarek@gmai.com
 
