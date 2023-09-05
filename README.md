@@ -1,5 +1,5 @@
 - 👋 Hello! I'm @Magulak (Cezary Zdrojewski), a Validation Engineer based in Poland with a passion for technology and personal growth. 
-- 👀 I’m interested in neural networks especialy object recognition , generative AI, natural launguage processing.
+- 👀 I’m interested in neural networks especialy object recognition , generative AI and natural launguage processing.
 - 🌱 I’m currently learning tensorflow, pywinauto
 - 💞️ I'm interested in collaborating on projects that align with my passions and will contribute to my personal development in those areas.
 - 📫 How to reach me:
