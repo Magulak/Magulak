@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Magulak (Cezary Zdrojewski)
-- 👀 I’m interested in cool projects that will help me improve myself
-- 🌱 I’m currently learning Tensor-Flow
-- 💞️ I’m looking to collaborate on projects that are above my comfort zone. (if you are making a simple game, some AI project ) text me! ( I would prefer c# or python project)
+- 👋 Hello! I'm @Magulak (Cezary Zdrojewski), a Validation Engineer based in Poland with a passion for technology and personal growth. 
+- 👀 I’m interested in neural networks especialy object recognition , generative AI, natural launguage processing.
+- 🌱 I’m currently learning tensorflow, pywinauto
+- 💞️ I'm interested in collaborating on projects that align with my passions and will contribute to my personal development in those areas.
 - 📫 How to reach me:
-- zdrojewski.czarek@gmai.com
+- (zdrojewski.czarek@gmai.com) / (Discord ID; 276796172050497536 / Magulon) Feel free to text me if you have any questions.
 
 <!---
 Magulak/Magulak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
