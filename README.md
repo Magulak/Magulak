@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning tensorflow, pywinauto
 - 💞️ I'm interested in collaborating on projects that align with my passions and will contribute to my personal development in those areas.
 - 📫 How to reach me:
-- (zdrojewski.czarek@gmai.com) / (Discord ID; 276796172050497536 / Magulon) Feel free to text me if you have any questions.
+- (zdrojewski.czarek@gmai.com) / (Discord ID; 276796172050497536 / Magulon) Feel free to text me.
 
 <!---
 Magulak/Magulak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
